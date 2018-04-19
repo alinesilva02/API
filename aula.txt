@@ -1,0 +1,75 @@
+var = variavel global
+let = escopo se criar um no if so vai ter la
+const = tera escopo mas nao pode mudar.normalmente usamos para uma valor que nao se muda.
+
+shift alt para baixo.... copia a linha
+
+
+if(condicao){
+	//escreve o que quiser para verdadeiro
+}else{
+	//escreve o que quiser para falso
+}
+
+
+== compara o endereco de memoria das variaveis
+=== compara o valor das variaveis
+!== diferente
+&& and
+<> or
+
+template string
+o resultado vai ser igual ao +1.
+
+ctrl c para o processamento quando em looping
+
+++1 incrementa e mostra
+i++ mostra e depois incrementa
+
+
+
+
+-----------------
+aula 2
+
+for (i,i<10,i++){
+
+
+}
+
+while (){
+
+}
+
+
+let array = [
+
+array.push (2); ele insere o elemento que esta no paranete apos o array
+array.unshit(3) insere na primeira
+.pop(); tira do fim
+.shift();
+
+objryo jsydon vc tem um objeto dentro
+
+exemplo:
+
+let endereco :{
+	nome = 'cto'
+	endere�o: 'av do estado '
+	n 5533
+}
+
+function funcao(param1,param2)
+//faz o que quiser
+ex: 
+let resultado = param1 + param2 +1
+return resultado;
+
+let funcao(param1) => esse substitui o function funcao(param1)
+ para mostrar na console
+//programa principal
+let resultado2 = funcao(1)
+
+
+
+npm install chalk --save
